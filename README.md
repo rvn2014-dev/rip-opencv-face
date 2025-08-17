@@ -1,2 +1,3 @@
-# rip-opencv-face
-Raspberry Pi OpenCV Face Recognition 
+# Raspberry Pi OpenCV Face Recognition
+
+Template project.
