@@ -1,3 +1,3 @@
 # Raspberry Pi OpenCV Face Recognition
 
-Template project.
+Raspberry Pi OpenCV Face Recognition project.
